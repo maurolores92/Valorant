@@ -1,0 +1,2035 @@
+{
+  "mapas": [
+    {
+      "id": 1,
+      "name": "Bind",
+      "description": "Mapa con múltiples rutas y teletransportes.",
+      "image": "/images/maps/bind.webp",
+      "details": {
+        "teletransportes": "Dos teletransportes unidireccionales que permiten cambiar de sitio rápidamente.",
+        "rutas": "Múltiples rutas para atacar y defender, lo que permite estrategias variadas."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "Haven",
+      "description": "Mapa con tres sitios de bomba.",
+      "image": "/images/maps/haven.webp",
+      "details": {
+        "tres_sitios": "A diferencia de otros mapas, tiene tres sitios de bomba (A, B, C), lo que exige una defensa flexible.",
+        "areas_abiertas_estrechas": "Combina áreas abiertas con pasajes estrechos, favoreciendo diferentes estilos de juego."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Split",
+      "description": "Mapa con dos sitios de bomba y áreas verticales.",
+      "image": "/images/maps/split.jpg",
+      "details": {
+        "zonas_elevadas": "Tiene muchas áreas elevadas, especialmente en los sitios de bomba.",
+        "medio_estrecho": "El medio es crucial para controlar el mapa y tiene ángulos complicados."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    },
+
+    {
+      "id": 4,
+      "name": "Ascent",
+      "description": "Mapa con un centro estratégico y muchas alturas.",
+      "image": "/images/maps/ascent.jpeg",
+      "details": {
+        "centro_abierto": "El medio del mapa es amplio y ofrece visibilidad y control estratégico.",
+        "puertas_destructibles": "Tiene puertas que se pueden cerrar y destruir para cambiar la dinámica del mapa."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    },
+
+    {
+      "id": 5,
+      "name": "Breeze",
+      "description": "Mapa con amplios espacios abiertos y áreas de largo alcance.",
+      "image": "/images/maps/breeze.webp",
+      "details": {
+        "areas_abiertas": "Muchas áreas amplias que favorecen los enfrentamientos de largo alcance.",
+        "sitios_grandes": "Los sitios de bomba son grandes, lo que permite múltiples posiciones defensivas."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    },
+
+    {
+      "id": 6,
+      "name": "Icebox",
+      "description": "Mapa con múltiples niveles y áreas de hielo.",
+      "image": "/images/maps/icebox.jpg",
+      "details": {
+        "zonas_elevadas": "Varias áreas con diferentes niveles de altura, lo que permite verticalidad en el juego.",
+        "cubiertas_y_lineas_de_vision": "Muchas cubiertas y líneas de visión complicadas, favoreciendo el uso de habilidades."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    },
+
+    {
+      "id": 7,
+      "name": "Fracture",
+      "description": "Mapa con dos áreas de ataque y múltiples caminos.",
+      "image": "/images/maps/fracture.webp",
+      "details": {
+        "ataques_divididos": "Permite ataques desde dos áreas diferentes, complicando la defensa.",
+        "rutas_variadas": "Muchas rutas y caminos, favoreciendo estrategias complejas y sorpresas."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    },
+
+    {
+      "id": 8,
+      "name": "Pearl",
+      "description": "Mapa con rutas subterráneas y muchos ángulos.",
+      "image": "/images/maps/pearl.jpg",
+      "details": {
+        "rutas_subterraneas": "Rutas subterráneas que permiten flanqueos y ataques sorpresa.",
+        "angulos_complicados": "Muchos ángulos y esquinas, lo que requiere una vigilancia constante."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    },
+
+    {
+      "id": 9,
+      "name": "Lotus",
+      "description": "Mapa con un diseño abierto y varias rutas.",
+      "image": "/images/maps/lotus.jpeg",
+      "details": {
+        "diseno_abierto": "Áreas abiertas que permiten enfrentamientos de largo alcance y posicionamiento flexible.",
+        "multiples_rutas": "Varias rutas de ataque y defensa, lo que permite adaptarse a diferentes estrategias."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    },
+
+    {
+      "id": 10,
+      "name": "Sunset",
+      "description": "Mapa con muchos espacios abiertos y rutas largas.",
+      "image": "/images/maps/sunset.png",
+      "details": {
+        "espacios_abiertos": "Favorece enfrentamientos de largo alcance y el uso de francotiradores.",
+        "rutas_largas": "Permite flanqueos largos y requiere una buena coordinación de equipo."
+      },
+      "personajes": [
+        {
+          "name": "Astra",
+          "role": "Controlador",
+          "image": "/images/characters/astra.jpeg",
+          "tutorials": [
+            { "title": "Guía de Astra en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Astra en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Brimstone",
+          "role": "Controlador",
+          "image": "/images/characters/brimstone.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Breach",
+          "role": "Iniciador",
+          "image": "/images/characters/breach.png",
+          "tutorials": [
+            { "title": "Breach en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Breach en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Chamber",
+          "role": "Centinela",
+          "image": "/images/characters/chamber.png",
+          "tutorials": [
+            { "title": "Guía de Chamber en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Chamber en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Cypher",
+          "role": "Centinela",
+          "image": "/images/characters/cypher.jpg",
+          "tutorials": [
+            { "title": "Guía de Cypher en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Cypher en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+            "name": "Fade",
+            "role": "Iniciador",
+            "image": "/images/characters/fade.jpeg",
+          "tutorials": [
+            { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Jett",
+          "role": "Duelista",
+          "image": "/images/characters/jett.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg",
+          "tutorials": [
+            { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Killjoy",
+          "role": "Centinela",
+          "image": "/images/characters/killjoy.jpg",
+          "tutorials": [
+            { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Neon",
+          "role": "Duelista",
+          "image": "/images/characters/neon.png",
+          "tutorials": [
+            { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+            { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Omen",
+          "role": "Iniciador",
+          "image": "/images/characters/omen.png",
+          "tutorials": [
+            { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+            { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Phoenix",
+          "role": "Duelista",
+          "image": "/images/characters/fenix.jpg",
+          "tutorials": [
+            { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+            { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+          ]
+        },
+        {
+          "name": "Raze",
+          "role": "Duelista",
+          "image": "/images/characters/raze.png",
+          "tutorials": [
+          { "title": "Fade en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Fade en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Sova",
+        "role": "Centinela",
+        "image": "/images/characters/sova.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Viper",
+        "role": "Controlador",
+        "image": "/images/characters/viper.jpg",
+        "tutorials": [
+          { "title": "Guía de Kayo en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Kayo en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Yoru",
+        "role": "Duelista",
+        "image": "/images/characters/yoru.jpg",
+        "tutorials": [
+          { "title": "Guía de Killjoy en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Killjoy en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Skye",
+        "role": "Iniciador",
+        "image": "/images/characters/skye.jpeg",
+        "tutorials": [
+          { "title": "Guía de Neon en Bind", "url": "https://example.com/tutorials/astra-bind" },
+          { "title": "Neon en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/astra-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Harbor",
+        "role": "Controlador",
+        "image": "/images/characters/harbor.jpeg",
+        "tutorials": [
+          { "title": "Guía de Brimstone en Bind", "url": "https://example.com/tutorials/brimstone-bind" },
+          { "title": "Brimstone en Bind: Estrategias Avanzadas", "url": "https://example.com/tutorials/brimstone-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Gekko",
+        "role": "Iniciador",
+        "image": "/images/characters/gekko.jpg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      },
+      {
+        "name": "Clove",
+        "role": "Controlador",
+      "image": "/images/characters/clove.jpeg",
+        "tutorials": [
+          { "title": "Jett en Bind: Habilidades Básicas", "url": "https://example.com/tutorials/jett-bind" },
+          { "title": "Jett en Bind: Mejores Lugares para Usar Habilidades", "url": "https://example.com/tutorials/jett-bind-advanced" }
+        ]
+      }
+      ]
+    }
+  ],
+  "personajes": [
+    {
+      "name": "Astra",
+      "role": "Controlador",
+      "image": "/images/characters/astra.jpeg"
+    },
+    {
+      "name": "Brimstone",
+      "role": "Controlador",
+      "image": "/images/characters/brimstone.png"
+    },
+    {
+      "name": "Breach",
+      "role": "Iniciador",
+      "image": "/images/characters/breach.png"
+    },
+    {
+      "name": "Chamber",
+      "role": "Centinela",
+      "image": "/images/characters/chamber.png"
+    },
+    {
+      "name": "Cypher",
+      "role": "Centinela",
+      "image": "/images/characters/cypher.jpg"
+    },
+    {
+      "name": "Fade",
+      "role": "Iniciador",
+      "image": "/images/characters/fade.jpeg"
+    },
+    {
+      "name": "Jett",
+      "role": "Duelista",
+      "image": "/images/characters/jett.jpg"
+    },
+    {
+      "name": "KAY/O",
+      "role": "Iniciador",
+      "image": "/images/characters/kayo.jpg"
+    },
+    {
+      "name": "Killjoy",
+      "role": "Centinela",
+      "image": "/images/characters/killjoy.jpg"
+    },
+    {
+      "name": "Neon",
+      "role": "Duelista",
+      "image": "/images/characters/neon.png"
+    },
+    {
+      "name": "Omen",
+      "role": "Iniciador",
+      "image": "/images/characters/omen.png"
+    },
+    {
+      "name": "Phoenix",
+      "role": "Duelista",
+      "image": "/images/characters/fenix.jpg"
+    },
+    {
+      "name": "Raze",
+      "role": "Duelista",
+      "image": "/images/characters/raze.png"
+    },
+    {
+      "name": "Sova",
+      "role": "Centinela",
+      "image": "/images/characters/sova.jpg"
+    },
+    {
+      "name": "Viper",
+      "role": "Controlador",
+      "image": "/images/characters/viper.jpg"
+    },
+    {
+      "name": "Yoru",
+      "role": "Duelista",
+      "image": "/images/characters/yoru.jpg"
+    },
+    {
+      "name": "Skye",
+      "role": "Iniciador",
+      "image": "/images/characters/skye.jpeg"
+    },
+    {
+      "name": "Harbor",
+      "role": "Controlador",
+      "image": "/images/characters/harbor.jpeg"
+    },
+    {
+      "name": "Gekko",
+      "role": "Iniciador",
+      "image": "/images/characters/gekko.jpg"
+    },
+    {
+      "name": "Clove",
+      "role": "Controlador",
+      "image": "/images/characters/clove.jpeg"
+    }
+  ]
+}
