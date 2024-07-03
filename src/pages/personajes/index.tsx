@@ -12,7 +12,7 @@ const Personajes = () => {
       </Typography>
       <Grid container spacing={4}>
         {personajes.map((personaje) => (
-          <Grid item xs={12} sm={6} md={2} key={personaje.id}>
+          <Grid item xs={4} sm={3} md={2} key={personaje.id}>
             <CharacterCard personaje={personaje} />
           </Grid>
         ))}
