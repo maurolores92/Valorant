@@ -58,7 +58,7 @@ const Footer = () => {
         </Grid>
       </Grid>
       <Typography variant="body2" sx={{ mb: 2 }}>
-        © {new Date().getFullYear()} mauriciolores.com.ar Todos los derechos reservados.
+        © {new Date().getFullYear()} Este sitio web no está afiliado ni patrocinado por Riot Games. Valorant y todas las imágenes y contenido relacionados son propiedad de Riot Games. Este sitio es solo para fines informativos y educativos. Para más información, visite el sitio oficial de Riot Games.
       </Typography>
     </Box>
   );

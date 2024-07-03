@@ -32,6 +32,9 @@ const NavBar = () => {
         <Button color="inherit" component={Link} href="/tutoriales">
           Tutoriales
         </Button>
+        <Button color="inherit" component={Link} href="/colaboraciones">
+          Colaboraciones
+        </Button>
       </Toolbar>
     </AppBar>
   );

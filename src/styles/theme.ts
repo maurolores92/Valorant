@@ -1,5 +1,6 @@
 // src/styles/theme.ts
 import { createTheme } from '@mui/material/styles';
+import '@fontsource/roboto';  // Añade esta línea para importar Roboto
 
 const theme = createTheme({
   palette: {
@@ -21,7 +22,7 @@ const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: '"Roboto", "Helvetica", "Arial", sans-serif',
+    fontFamily: 'Roboto, "Helvetica", "Arial", sans-serif',  // Asegúrate de que Roboto esté primero
     h1: {
       fontSize: '2.5rem',
       fontWeight: 700,

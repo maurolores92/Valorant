@@ -76,7 +76,7 @@ const PersonajeDetalles: NextPage<Props> = ({ personaje }) => {
             component="img"
             image={personaje.image}
             alt={personaje.name}
-            sx={{ objectFit: 'cover', width: { xs: '100%', md: '40%' } }}  // Imagen ocupa el 40% en pantallas grandes y 100% en pantallas pequeñas
+            sx={{ objectFit: 'cover', width: { xs: '100%', md: '40%' } }}
           />
           <CardContent sx={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'center', padding: '2rem' }}>
             <Typography variant="h2" gutterBottom align="center" color={"primary"} marginY={2}>

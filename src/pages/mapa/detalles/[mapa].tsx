@@ -10,6 +10,7 @@ interface DetalleMapa {
   id: number;
   name: string;
   description: string;
+  map: string;
   image: string;
   details: {
     teletransportes?: string;
@@ -82,6 +83,13 @@ const MapaDetalles = ({ mapa }: Props) => {
 
   return (
     <Container>
+      <Button
+          variant="contained"
+          onClick={() => router.push('/mapa')}
+          sx={{ marginTop: 4, }}
+        >
+          Volver a Mapas
+        </Button>
       <Box sx={{ margin: '2rem 0' }}>
         <Card>
           <CardMedia
@@ -91,107 +99,119 @@ const MapaDetalles = ({ mapa }: Props) => {
             alt={mapa.name}
             sx={{ objectFit: 'cover' }}
           />
-          <CardContent>
-            <Typography variant="h4" gutterBottom color="primary">
+          <CardContent sx={{display:'flex'}}>
+          <Grid container spacing={10}>
+          <Grid item xs={8} key={mapa.id}>
+            <Typography variant="h3" gutterBottom color="primary">
               {mapa.name}
             </Typography>
-            <Typography variant="h6" gutterBottom color="secondary">
+            <Typography variant="h4" gutterBottom color="secondary">
               {mapa.description}
             </Typography>
             {mapa.details && (
               <>
                 {mapa.details.teletransportes && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Teletransportes:</strong> {mapa.details.teletransportes}
                   </Typography>
                 )}
                 {mapa.details.rutas && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Rutas:</strong> {mapa.details.rutas}
                   </Typography>
                 )}
                 {mapa.details.tres_sitios && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Tres sitios:</strong> {mapa.details.tres_sitios}
                   </Typography>
                 )}
                 {mapa.details.areas_abiertas_estrechas && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Áreas abiertas y estrechas:</strong> {mapa.details.areas_abiertas_estrechas}
                   </Typography>
                 )}
                 {mapa.details.zonas_elevadas && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Zonas elevadas:</strong> {mapa.details.zonas_elevadas}
                   </Typography>
                 )}
                 {mapa.details.medio_estrecho && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Medio estrecho:</strong> {mapa.details.medio_estrecho}
                   </Typography>
                 )}
                 {mapa.details.centro_abierto && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Centro abierto:</strong> {mapa.details.centro_abierto}
                   </Typography>
                 )}
                 {mapa.details.puertas_destructibles && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Puertas destructibles:</strong> {mapa.details.puertas_destructibles}
                   </Typography>
                 )}
                 {mapa.details.sitios_grandes && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Sitios grandes:</strong> {mapa.details.sitios_grandes}
                   </Typography>
                 )}
                 {mapa.details.cubiertas_y_lineas_de_vision && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Cubiertas y líneas de visión:</strong> {mapa.details.cubiertas_y_lineas_de_vision}
                   </Typography>
                 )}
                 {mapa.details.ataques_divididos && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Ataques divididos:</strong> {mapa.details.ataques_divididos}
                   </Typography>
                 )}
                 {mapa.details.rutas_variadas && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Rutas variadas:</strong> {mapa.details.rutas_variadas}
                   </Typography>
                 )}
                 {mapa.details.rutas_subterraneas && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Rutas subterráneas:</strong> {mapa.details.rutas_subterraneas}
                   </Typography>
                 )}
                 {mapa.details.angulos_complicados && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Ángulos complicados:</strong> {mapa.details.angulos_complicados}
                   </Typography>
                 )}
                 {mapa.details.diseno_abierto && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Diseño abierto:</strong> {mapa.details.diseno_abierto}
                   </Typography>
                 )}
                 {mapa.details.multiples_rutas && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Múltiples rutas:</strong> {mapa.details.multiples_rutas}
                   </Typography>
                 )}
                 {mapa.details.espacios_abiertos && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Espacios abiertos:</strong> {mapa.details.espacios_abiertos}
                   </Typography>
                 )}
                 {mapa.details.rutas_largas && (
-                  <Typography variant="body2" color="textSecondary" gutterBottom>
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Rutas largas:</strong> {mapa.details.rutas_largas}
                   </Typography>
                 )}
               </>
             )}
+            </Grid>
+            <Grid item xs={4} key={mapa.id}>
+            <CardMedia
+            component="img"            
+            image={mapa.map}
+            alt={mapa.name}
+            sx={{ objectFit: 'cover', width:"300px", height:'300px' }}
+          />
+          </Grid>
+          </Grid>
           </CardContent>
         </Card>
       </Box>

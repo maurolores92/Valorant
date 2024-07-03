@@ -8,8 +8,8 @@ const Mapas = () => {
 
   return (
     <Container maxWidth="xl">
-      <Typography variant="h2" gutterBottom align="center" margin={5}>
-        Mapas de Valorant
+      <Typography variant="h2" gutterBottom margin={5}>
+        Selecciona el mapa con el que jugaras
       </Typography>
       <Grid container spacing={4}>
         {mapas.map((mapa) => (
