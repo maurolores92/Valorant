@@ -30,31 +30,32 @@ const personajes = [
 
 const Home = () => (
   <Box
-    sx={{
-      position: 'relative',
-      width: '100%',
-      minHeight: '100vh', 
-      overflow: 'hidden',
-      
-    }}
-  >
-    <video
-      autoPlay
-      loop
-      muted
-      playsInline
-      style={{
-        position: "absolute",
-        top: 0,
-        left: 0,
+      sx={{
+        position: 'relative',
         width: '100%',
-        objectFit: 'cover',
-        maxHeight: '700px',
+        minHeight: '100vh', 
+        overflow: 'hidden',
       }}
     >
-      <source src="/images/valorant.mp4" type="video/mp4"/>
-      Your browser does not support the video tag.
-    </video>
+      <video
+        autoPlay
+        loop
+        muted
+        playsInline
+        style={{
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          width: '100%',
+          objectFit: 'cover',
+          height: '100%',  // Asegúrate de que el video cubra el contenedor en altura también
+          maxHeight: '100vh',  // Ajusta la altura máxima para que no se salga de la pantalla en dispositivos grandes
+          maxWidth: '100vw',  // Asegúrate de que el video no se salga del contenedor
+        }}
+      >
+        <source src="/images/valorant.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
     <Box
       sx={{
         position: 'absolute',
@@ -145,9 +146,9 @@ const Home = () => (
       </Box>
 
 
-      <Grid container spacing={10} justifyContent={"center"} >
+      <Grid container spacing={2} justifyContent={"center"} >
         {personajes.map((personaje) => (
-          <Grid item xs={12} sm={6} md={2} key={personaje.id}>
+          <Grid item xs={6} sm={6} md={2} key={personaje.id}>
             <Card
               component={Link}
               href={`/personajes/detalles/${personaje.id}`}
@@ -186,9 +187,6 @@ const Home = () => (
                 <Typography variant="body2" sx={{ marginBottom: '0.5rem' }}>
                   <strong>Rol: </strong>
                   {personaje.role}
-                </Typography>
-                <Typography variant="body2" sx={{ marginBottom: '1rem' }}>
-                  {personaje.description}
                 </Typography>
               </CardContent>
             </Card>

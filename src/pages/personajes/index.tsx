@@ -7,8 +7,8 @@ const Personajes = () => {
 
   return (
     <Container maxWidth="xl">
-      <Typography variant="h2" gutterBottom align="center" margin={5}>
-        Personajes de Valorant
+      <Typography variant="h4" gutterBottom align="center" margin={5}>
+        Selecciona el personaje con el que jugaras
       </Typography>
       <Grid container spacing={4}>
         {personajes.map((personaje) => (
