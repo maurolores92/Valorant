@@ -9,8 +9,10 @@ import {
   Grid,
   Box,
   Link,
-  Alert
+  Alert,
+  IconButton
 } from '@mui/material';
+import { Icon } from '@iconify/react';
 
 const personajes = [
   'Astra', 'Breach', 'Brimstone', 'Chamber', 'Cypher', 'Deadlock', 'Fade', 'Gekko',
@@ -82,8 +84,8 @@ const ContactoColaboraciones = () => {
   };
 
   return (
-    <Container>
-      <Typography variant="h4" gutterBottom>
+    <Container sx={{margin:'4rem auto'}}>
+      <Typography variant="h4" gutterBottom >
         Contacto y Colaboraciones
       </Typography>
       <Typography variant="body1" paragraph>
@@ -201,23 +203,17 @@ const ContactoColaboraciones = () => {
       <Typography variant="h5" gutterBottom>
         Síguenos en nuestras redes sociales
       </Typography>
-      <Box>
-        <Link href="https://twitter.com/tuperfil" target="_blank" rel="noopener">
-          Twitter
-        </Link>{' '}
-        |{' '}
-        <Link href="https://facebook.com/tuperfil" target="_blank" rel="noopener">
-          Facebook
-        </Link>{' '}
-        |{' '}
-        <Link href="https://instagram.com/tuperfil" target="_blank" rel="noopener">
-          Instagram
-        </Link>{' '}
-        |{' '}
-        <Link href="https://discord.gg/tuinvitation" target="_blank" rel="noopener">
-          Discord
-        </Link>
-      </Box>
+      <Box sx={{ display: 'flex', }}>
+            <IconButton color="inherit" href="https://tiktok.com" target="_blank" aria-label="Tiktok">
+            <Icon icon="ic:baseline-tiktok" />
+            </IconButton>
+            <IconButton color="inherit" href="https://mauriciolores.com" target="_blank" aria-label="Pagina Web">
+            <Icon icon="mdi:web" />
+            </IconButton>
+            <IconButton color="inherit" href="https://youtube.com" target="_blank" aria-label="Youtube">
+            <Icon icon="mdi:youtube" />
+            </IconButton>
+          </Box>
       <Typography variant="h5" gutterBottom sx={{ mt: 4 }}>
         Directrices para la Colaboración
       </Typography>
