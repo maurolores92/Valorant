@@ -1,10 +1,10 @@
 // src/pages/Mapas.tsx
 import { Typography, Container, Grid } from '@mui/material';
 import MapCard from 'src/components/MapCard';
-import data from 'public/valorant.json'; 
+import data from 'public/mapas.json'; 
 
 const Mapas = () => {
-  const mapas = data.mapas; // Obtener los mapas del JSON
+  const mapas = data.mapas;
 
   return (
     <Container maxWidth="xl">

@@ -15,7 +15,7 @@ const NavBar = () => {
   };
 
   return (
-    <AppBar position="static" sx={{backgroundColor:'transparent'}}>
+    <AppBar position="static" sx={{backgroundColor:'transparent', borderBottom: '2px solid #ff4655',}}>
       <Toolbar>
         <Typography variant="h5" style={{ flexGrow: 1 }}>
           Mundo Valorant

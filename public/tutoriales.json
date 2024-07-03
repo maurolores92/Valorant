@@ -1,0 +1,1212 @@
+[
+  {
+    "characterId": 1, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 2, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "https://www.youtube.com/watch?v=F2QyyyYWrSE" },
+      { "title": "Los mejores Setup en site B", "url": "https://www.youtube.com/watch?v=EDwQa03KoIo" }
+    ]
+  },
+  {
+    "characterId": 3, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 4, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 5, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "https://www.youtube.com/watch?v=o-RoEvAvv9c" },
+      { "title": "Los mejores Setup en site B", "url": "https://www.youtube.com/watch?v=-TAEr433FOc" }
+    ]
+  },
+  {
+    "characterId": 6, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 7, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 8, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 9, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 10, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 11, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 12, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 13, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 14, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 15, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 16, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 17, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 18, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 19, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 20, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 21, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 22, "mapId": 1, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+
+
+
+  {
+    "characterId": 1, "mapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 2, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 3, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 4, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 5, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 6, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 7, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 8, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 9, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 10, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 11, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 12, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 13, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 14, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 15, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 16, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 17, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 18, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 19, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 20, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 21, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 22, "rmapId": 2, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+
+
+
+  {
+    "characterId": 1, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 2, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 3, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 4, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 5, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 6, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 7, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 8, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 9, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 10, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 11, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 12, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 13, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 14, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 15, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 16, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 17, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 18, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 19, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 20, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 21, "rmapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 22, "mapId": 3, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+
+  
+
+
+  {
+    "characterId": 1, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 2, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 3, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 4, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 5, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 6, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 7, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 8, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 9, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 10, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 11, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 12, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 13, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 14, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 15, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 16, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 17, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 18, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 19, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 20, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 21, "rmapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 22, "mapId": 4, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+
+
+
+  {
+    "characterId": 1, "rmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 2, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 3, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 4, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 5, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 6, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 7, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 8, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 9, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 10, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 11, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 12, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 13, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 14, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 15, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 16, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 17, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 18, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 19, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 20, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 21, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 22, "rrmapId": 5, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+
+
+
+  {
+    "characterId": 1, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 2, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 3, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 4, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 5, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 6, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 7, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 8, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 9, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 10, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 11, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 12, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 13, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 14, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 15, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 16, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 17, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 18, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 19, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 20, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 21, "rrmapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 22, "mapId": 6, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 1, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 2, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 3, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 4, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 5, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 6, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 7, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 8, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 9, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 10, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 11, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 12, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 13, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 14, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 15, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 16, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 17, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 18, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 19, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 20, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 21, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 22, "rmapId": 7, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+
+
+
+  {
+    "characterId": 1, "rmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 2, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 3, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 4, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 5, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 6, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 7, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 8, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 9, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 10, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 11, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 12, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 13, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 14, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 15, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 16, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 17, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 18, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 19, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 20, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 21, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 22, "rrmapId": 8, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+
+
+
+  {
+    "characterId": 1, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 2, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 3, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 4, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 5, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 6, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 7, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 8, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 9, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 10, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 11, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 12, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 13, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 14, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 15, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 16, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 17, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 18, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 19, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 20, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 21, "rrmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  },
+  {
+    "characterId": 22, "rmapId": 9, "tutorials": [
+      { "title": "Los mejores Setup en site A", "url": "" },
+      { "title": "Los mejores Setup en site B", "url": "" }
+    ]
+  }
+]

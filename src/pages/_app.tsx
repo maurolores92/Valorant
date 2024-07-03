@@ -5,6 +5,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 import theme from '../styles/theme';
 import NavBar from 'src/components/navBar';
 import '../styles/global.css'
+import Footer from 'src/components/Footer';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -12,6 +13,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <CssBaseline />
       <NavBar />
       <Component {...pageProps} />
+      <Footer/>
     </ThemeProvider>
   );
 }
