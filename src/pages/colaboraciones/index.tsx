@@ -196,7 +196,46 @@ const ContactoColaboraciones = () => {
       </Box>
       <Typography variant="body1" paragraph>
         Para consultas directas, puedes enviarnos un correo electrónico a{' '}
-        <Link href="mailto:contacto@tusitio.com">contacto@tusitio.com</Link>.
+        <Link href="mailto:tuemail@example.com">tuemail@example.com</Link>.
+      </Typography>
+      <Typography variant="h5" gutterBottom>
+        Síguenos en nuestras redes sociales
+      </Typography>
+      <Box>
+        <Link href="https://twitter.com/tuperfil" target="_blank" rel="noopener">
+          Twitter
+        </Link>{' '}
+        |{' '}
+        <Link href="https://facebook.com/tuperfil" target="_blank" rel="noopener">
+          Facebook
+        </Link>{' '}
+        |{' '}
+        <Link href="https://instagram.com/tuperfil" target="_blank" rel="noopener">
+          Instagram
+        </Link>{' '}
+        |{' '}
+        <Link href="https://discord.gg/tuinvitation" target="_blank" rel="noopener">
+          Discord
+        </Link>
+      </Box>
+      <Typography variant="h5" gutterBottom sx={{ mt: 4 }}>
+        Directrices para la Colaboración
+      </Typography>
+      <Typography variant="body1" paragraph>
+        Asegúrate de que tus videos sean claros, con buena calidad de audio y video, y que proporcionen información útil y detallada sobre los lineups y setups de personajes en los mapas específicos de Valorant. Revisaremos todas las propuestas de video y nos pondremos en contacto contigo en un plazo de 1-2 semanas. Nos reservamos el derecho de editar o rechazar contenido que no cumpla con nuestros estándares de calidad.
+      </Typography>
+      <Typography variant="h5" gutterBottom sx={{ mt: 4 }}>
+        Ejemplo de Colaboración Exitosa
+      </Typography>
+      <Typography variant="body1" paragraph>
+        Recientemente publicamos un video de{' '}
+        <Link href="https://ejemplo.com" target="_blank" rel="noopener">
+          Nombre del Colaborador
+        </Link>{' '}
+        sobre setups de Cypher en Bind. Puedes ver el resultado{' '}
+        <Link href="https://enlace-a-colaboracion.com" target="_blank" rel="noopener">
+          aquí
+        </Link>.
       </Typography>
     </Container>
   );
