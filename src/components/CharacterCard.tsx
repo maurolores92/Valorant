@@ -39,6 +39,7 @@ const CharacterCard = ({ personaje }: CharacterCardProps) => {
         alt={personaje.name}
         sx={{
           objectFit: 'cover',
+          objectPosition: 'top',
           borderTopLeftRadius: '16px',
           borderTopRightRadius: '16px',
         }}

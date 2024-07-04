@@ -160,8 +160,8 @@
   },
   {
     "characterId": 5, "rmapId": 2, "tutorials": [
-      { "title": "Los mejores Setup en site A", "url": "" },
-      { "title": "Los mejores Setup en site B", "url": "" }
+      { "title": "Los mejores Setup en site A", "url": "https://www.youtube.com/watch?v=aR-Y_ofaNBs" },
+      { "title": "Los mejores Setup en site B", "url": "https://www.youtube.com/watch?v=CcY6LwYOMeA" }
     ]
   },
   {
@@ -295,8 +295,8 @@
   },
   {
     "characterId": 5, "rmapId": 3, "tutorials": [
-      { "title": "Los mejores Setup en site A", "url": "" },
-      { "title": "Los mejores Setup en site B", "url": "" }
+      { "title": "Los mejores Setup en site A", "url": "https://www.youtube.com/watch?v=5Mknd-SQ9vM" },
+      { "title": "Los mejores Setup en site B", "url": "https://www.youtube.com/watch?v=O9dXilwBZHc" }
     ]
   },
   {

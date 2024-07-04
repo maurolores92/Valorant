@@ -48,9 +48,9 @@ const Home = () => (
           left: 0,
           width: '100%',
           objectFit: 'cover',
-          height: '100%',  // Asegúrate de que el video cubra el contenedor en altura también
-          maxHeight: '100vh',  // Ajusta la altura máxima para que no se salga de la pantalla en dispositivos grandes
-          maxWidth: '100vw',  // Asegúrate de que el video no se salga del contenedor
+          height: '100%', 
+          maxHeight: '100vh', 
+          maxWidth: '100vw',
         }}
       >
         <source src="/images/valorant.mp4" type="video/mp4" />
@@ -63,8 +63,8 @@ const Home = () => (
         left: 0,
         width: '100%',
         height: '100%',
-        backgroundColor: 'rgba(0, 0, 0, 0.5)',  // Oscurecer el video
-        zIndex: 0, // Asegúrate de que el overlay esté encima del video pero debajo del contenido
+        backgroundColor: 'rgba(0, 0, 0, 0.5)',
+        zIndex: 0,
       }}
     />
     <Box
@@ -151,7 +151,7 @@ const Home = () => (
           <Grid item xs={6} sm={6} md={2} key={personaje.id}>
             <Card
               component={Link}
-              href={`/personajes/detalles/${personaje.id}`}
+              href={`/personajes/detalles/${personaje.name.toLowerCase()}`}
               sx={{
                 textDecoration: 'none',
                 color: 'inherit',
