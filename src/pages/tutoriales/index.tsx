@@ -89,7 +89,7 @@ const Tutoriales = () => {
             </Typography>
             <Grid container spacing={2}>
               {tutorials.map((tutorial, index) => (
-                <Grid item xs={12} md={6} key={index}>
+                <Grid item xs={12} md={3} key={index}>
                   {tutorial.url ? (
                     <Card sx={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
                       <CardMedia

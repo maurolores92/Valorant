@@ -33,15 +33,15 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Footer />
       <Script
         id="google-analytics"
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-DDR7PSRE82"
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{
           __html: `
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'TU_ID_DE_SEGUIMIENTO', {
-              page_path: window.location.pathname,
-            });
+            gtag('config', 'G-DDR7PSRE82');
           `,
         }}
       />
