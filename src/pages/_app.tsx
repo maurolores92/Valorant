@@ -22,6 +22,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta property="og:url" content="https://www.valorantguide.com" />
         <meta property="og:type" content="website" />
         <meta name="robots" content="index, follow" />
+        <meta name="google-adsense-account" content="ca-pub-4341786812153148"></meta>
         <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon_io/apple-touch-icon.png"/>
         <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_io/favicon-32x32.png"/>
         <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_io/favicon-16x16.png"/>
@@ -31,20 +32,18 @@ function MyApp({ Component, pageProps }: AppProps) {
       <NavBar />
       <Component {...pageProps} />
       <Footer />
-      <Script
-        id="google-analytics"
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=G-DDR7PSRE82"
-        strategy="afterInteractive"
-        dangerouslySetInnerHTML={{
-          __html: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-DDR7PSRE82');
-          `,
-        }}
-      />
+      <Script src="https://www.googletagmanager.com/gtag/js?id=G-DDR7PSRE82" strategy="afterInteractive" />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-DDR7PSRE82');
+        `}
+      </Script>
+      <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4341786812153148"
+     crossOrigin='anonymous'></Script>
     </ThemeProvider>
   );
 }

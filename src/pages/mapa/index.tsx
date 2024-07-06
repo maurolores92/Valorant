@@ -11,7 +11,7 @@ const Mapas = () => {
       <Typography variant="h2" gutterBottom margin={5}>
         Selecciona el mapa con el que jugaras
       </Typography>
-      <Grid container spacing={4}>
+      <Grid container spacing={4} margin={4}>
         {mapas.map((mapa) => (
           <Grid item xs={12} sm={6} md={4} key={mapa.name}>
             <MapCard mapa={mapa} />

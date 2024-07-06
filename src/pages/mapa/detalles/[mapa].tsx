@@ -31,6 +31,8 @@ interface DetalleMapa {
     multiples_rutas?: string;
     espacios_abiertos?: string;
     rutas_largas?: string;
+    niveles_multiples?: string;
+    rutas_estrechas?: string;
   };
 }
 
@@ -198,6 +200,16 @@ const MapaDetalles = ({ mapa }: Props) => {
                 {mapa.details.rutas_largas && (
                   <Typography variant="body1" color="textSecondary" gutterBottom>
                     <strong>Rutas largas:</strong> {mapa.details.rutas_largas}
+                  </Typography>
+                )}
+                {mapa.details.niveles_multiples && (
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
+                    <strong>Niveles Multiples:</strong> {mapa.details.niveles_multiples}
+                  </Typography>
+                )}
+                {mapa.details.rutas_estrechas && (
+                  <Typography variant="body1" color="textSecondary" gutterBottom>
+                    <strong>Rutas estrechas:</strong> {mapa.details.rutas_estrechas}
                   </Typography>
                 )}
               </>

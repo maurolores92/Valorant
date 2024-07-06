@@ -1,4 +1,3 @@
-// src/components/NavBar.tsx
 import { AppBar, Toolbar, Typography, Button, Menu, MenuItem, IconButton, Box } from '@mui/material';
 import { useState } from 'react';
 import Link from 'next/link';
@@ -27,13 +26,13 @@ const NavBar = () => {
 
   return (
     <AppBar position="static" sx={{ backgroundColor: 'transparent', borderBottom: '2px solid #ff4655' }}>
-      <Toolbar>
-      <Button color="inherit" component={Link} href="/">
-        <Typography variant="h5" sx={{ flexGrow: 1 }}>
-          ValorantGuide
-        </Typography>
+      <Toolbar sx={{ justifyContent: 'space-between' }}>
+        <Button color="inherit" component={Link} href="/">
+          <Typography variant="h5" sx={{ flexGrow: 1 }}>
+            ValorantGuide
+          </Typography>
         </Button>
-        <Box sx={{ display: { xs: 'none', sm: 'flex' } }}>
+        <Box sx={{ display: { xs: 'none', sm: 'flex' }, ml: 'auto' }}>
           <Button color="inherit" component={Link} href="/">
             Inicio
           </Button>
@@ -51,7 +50,7 @@ const NavBar = () => {
           </Button>
         </Box>
         {/* Botón del menú para pantallas pequeñas */}
-        <Box sx={{ display: { xs: 'flex', sm: 'none' } }}>
+        <Box sx={{ display: { xs: 'flex', sm: 'none' }, ml: 'auto' }}>
           <IconButton
             edge="start"
             color="inherit"

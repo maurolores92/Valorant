@@ -109,6 +109,17 @@
         "espacios_abiertos": "Favorece enfrentamientos de largo alcance y el uso de francotiradores.",
         "rutas_largas": "Permite flanqueos largos y requiere una buena coordinación de equipo."
       }
+    },
+    {
+      "id": 11,
+      "name": "Abyss",
+      "description": "Mapa submarino con múltiples niveles y rutas estrechas.",
+      "map": "/images/maps/abyssMap.jpeg",
+      "image": "/images/maps/abyss.jpg",
+      "details": {
+        "niveles_multiples": "Ofrece un diseño vertical con varios niveles que permiten ataques desde arriba y abajo.",
+        "rutas_estrechas": "Facilita el uso de habilidades de control de área para bloquear caminos y emboscar enemigos."
+      }
     }
   ]
 }
