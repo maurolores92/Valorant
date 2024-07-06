@@ -49,10 +49,10 @@ const Footer = () => {
         </Grid>
         <Grid item xs={12} sm={6} md={4} lg={3}>
           <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-            <Link href="/privacy.html" color="inherit" underline="none" sx={{ mb: 1 }}>
+            <Link href="/privacy" color="inherit" underline="none" sx={{ mb: 1 }}>
               Política de Privacidad
             </Link>
-            <Link href="/terms.html" color="inherit" underline="none" sx={{ mb: 1 }}>
+            <Link href="/terms" color="inherit" underline="none" sx={{ mb: 1 }}>
               Términos y Condiciones
             </Link>
           </Box>
