@@ -29,8 +29,6 @@ interface TutorialDetail {
 interface Tutorial {
   characterId: number;
   mapId?: number;
-  rmapId?: number;
-  rrmapId?: number;
   tutorials: TutorialDetail[];
 }
 
@@ -58,7 +56,7 @@ const PersonajeDetalles: NextPage<Props> = ({ personaje }) => {
   // Filtra los tutoriales para el personaje y el mapa seleccionado
   const filteredTutorials = selectedMap ? tutorialesData.filter((tutorial: Tutorial) =>
     tutorial.characterId === Number(personaje.id) &&
-    (tutorial.mapId === mapas[selectedMap]?.id || tutorial.rmapId === mapas[selectedMap]?.id || tutorial.rrmapId === mapas[selectedMap]?.id)
+    (tutorial.mapId === mapas[selectedMap]?.id)
   ) : [];
 
   return (

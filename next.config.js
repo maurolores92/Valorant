@@ -1,8 +1,12 @@
-// next.config.js
+
+const path = require('path')
+
+/** @type {import('next').NextConfig} */
+
+// Remove this if you're not using Fullcalendar features
+
 module.exports = {
-  output: 'export',  // Configura la exportación de Next.js para generar archivos estáticos
-  distDir: 'out',    // Define el directorio de salida como 'out'
-  images: {
-    unoptimized: true,  // Desactiva la optimización de imágenes, opcional
-  },
-};
+  output: 'export',
+  trailingSlash: true,
+  reactStrictMode: false,
+}

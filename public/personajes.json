@@ -5,7 +5,7 @@
       "name": "Astra",
       "role": "Controlador",
       "face": "/images/rostros/astraRostro.png",
-      "image": "images/characters/astra.webp",
+      "image": "/images/characters/astra.webp",
         "description": "Astra es una controladora que manipula el espacio con sus estrellas.",
         "recommendedMaps": [
           {

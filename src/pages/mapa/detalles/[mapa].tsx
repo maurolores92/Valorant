@@ -50,8 +50,6 @@ interface TutorialDetail {
 interface Tutorial {
   characterId: number;
   mapId?: number;
-  rmapId?: number;
-  rrmapId?: number;
   tutorials: TutorialDetail[];
 }
 
@@ -74,7 +72,7 @@ const MapaDetalles = ({ mapa }: Props) => {
   // Filtrar tutoriales basados en el personaje y el mapa seleccionado
   const filteredTutorials = tutorialsData.filter((tutorial: Tutorial) => 
     tutorial.characterId === Number(selectedPersonaje?.id) && // Convertimos a número aquí
-    (tutorial.mapId === mapa.id || tutorial.rmapId === mapa.id || tutorial.rrmapId === mapa.id)
+    (tutorial.mapId === mapa.id)
   );
 
   const getYouTubeVideoId = (url: string): string | null => {

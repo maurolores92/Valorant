@@ -36,13 +36,13 @@ const Footer = () => {
             Síguenos en Redes Sociales
           </Typography>
           <Box sx={{ display: 'flex', justifyContent: 'center' }}>
-            <IconButton color="inherit" href="https://tiktok.com" target="_blank" aria-label="Tiktok">
+          <IconButton color="inherit" href="https://www.tiktok.com/@valorantguidetips" target="_blank" aria-label="Tiktok">
               <Icon icon="ic:baseline-tiktok" />
             </IconButton>
-            <IconButton color="inherit" href="https://mauriciolores.com" target="_blank" aria-label="Pagina Web">
+            <IconButton color="inherit" href="https://mauriciolores.com.ar" target="_blank" aria-label="Pagina Web">
               <Icon icon="mdi:web" />
             </IconButton>
-            <IconButton color="inherit" href="https://youtube.com" target="_blank" aria-label="Youtube">
+            <IconButton color="inherit" href="https://www.youtube.com/channel/UCfJ03wdJcaJ6Rh84CGjIIiQ" target="_blank" aria-label="Youtube">
               <Icon icon="mdi:youtube" />
             </IconButton>
           </Box>

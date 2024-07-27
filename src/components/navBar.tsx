@@ -2,6 +2,7 @@ import { AppBar, Toolbar, Typography, Button, Menu, MenuItem, IconButton, Box } 
 import { useState } from 'react';
 import Link from 'next/link';
 import MenuIcon from '@mui/icons-material/Menu';
+import { Icon } from '@iconify/react';
 
 const NavBar = () => {
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
@@ -48,6 +49,17 @@ const NavBar = () => {
           <Button color="inherit" component={Link} href="/colaboraciones">
             Colaboraciones
           </Button>
+          <Box sx={{ display: 'flex', justifyContent: 'center' }}>
+            <IconButton color="inherit" href="https://www.tiktok.com/@valorantguidetips" target="_blank" aria-label="Tiktok">
+              <Icon icon="ic:baseline-tiktok" />
+            </IconButton>
+            <IconButton color="inherit" href="https://mauriciolores.com.ar" target="_blank" aria-label="Pagina Web">
+              <Icon icon="mdi:web" />
+            </IconButton>
+            <IconButton color="inherit" href="https://www.youtube.com/channel/UCfJ03wdJcaJ6Rh84CGjIIiQ" target="_blank" aria-label="Youtube">
+              <Icon icon="mdi:youtube" />
+            </IconButton>
+          </Box>
         </Box>
         {/* Botón del menú para pantallas pequeñas */}
         <Box sx={{ display: { xs: 'flex', sm: 'none' }, ml: 'auto' }}>
