@@ -6,6 +6,7 @@ import NavBar from 'src/components/navBar';
 import Footer from 'src/components/Footer';
 import Head from 'next/head';
 import Script from 'next/script';
+import '../styles/global.css';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -29,9 +30,13 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="manifest" href="/images/favicon_io/site.webmanifest"/>
         <link rel="canonical" href="https://www.valorantguide.com" />
       </Head>
-      <NavBar />
-      <Component {...pageProps} />
-      <Footer />
+      <div className="app-container">
+        <NavBar />
+        <main className="main-content">
+          <Component {...pageProps} />
+        </main>
+        <Footer />
+      </div>
       <Script src="https://www.googletagmanager.com/gtag/js?id=G-DDR7PSRE82" strategy="afterInteractive" />
       <Script id="google-analytics" strategy="afterInteractive">
         {`

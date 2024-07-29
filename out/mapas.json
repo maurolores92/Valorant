@@ -1,0 +1,125 @@
+{
+  "mapas": [
+    {
+      "id": 1,
+      "name": "Bind",
+      "description": "Mapa con múltiples rutas y teletransportes.",
+      "map":"/images/maps/bindMap.jpeg",
+      "image": "/images/maps/bind.webp",
+      "details": {
+        "teletransportes": "Dos teletransportes unidireccionales que permiten cambiar de sitio rápidamente.",
+        "rutas": "Múltiples rutas para atacar y defender, lo que permite estrategias variadas."
+      }
+    },
+    {
+      "id": 2,
+      "name": "Haven",
+      "description": "Mapa con tres sitios de bomba.",
+      "map":"/images/maps/havenMap.jpeg",
+      "image": "/images/maps/haven.webp",
+      "details": {
+        "tres_sitios": "A diferencia de otros mapas, tiene tres sitios de bomba (A, B, C), lo que exige una defensa flexible.",
+        "areas_abiertas_estrechas": "Combina áreas abiertas con pasajes estrechos, favoreciendo diferentes estilos de juego."
+      }
+    },
+    {
+      "id": 3,
+      "name": "Split",
+      "description": "Mapa con dos sitios de bomba y áreas verticales.",
+      "map":"/images/maps/splitMap.jpeg",
+      "image": "/images/maps/split.jpg",
+      "details": {
+        "zonas_elevadas": "Tiene muchas áreas elevadas, especialmente en los sitios de bomba.",
+        "medio_estrecho": "El medio es crucial para controlar el mapa y tiene ángulos complicados."
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ascent",
+      "description": "Mapa con un centro estratégico y muchas alturas.",
+      "map":"/images/maps/ascentMap.jpeg",
+      "image": "/images/maps/ascent.jpeg",
+      "details": {
+        "centro_abierto": "El medio del mapa es amplio y ofrece visibilidad y control estratégico.",
+        "puertas_destructibles": "Tiene puertas que se pueden cerrar y destruir para cambiar la dinámica del mapa."
+      }
+    },
+    {
+      "id": 5,
+      "name": "Breeze",
+      "description": "Mapa con amplios espacios abiertos y áreas de largo alcance.",
+      "map":"/images/maps/breezeMap.jpeg",
+      "image": "/images/maps/breeze.webp",
+      "details": {
+        "areas_abiertas": "Muchas áreas amplias que favorecen los enfrentamientos de largo alcance.",
+        "sitios_grandes": "Los sitios de bomba son grandes, lo que permite múltiples posiciones defensivas."
+      }
+    },
+    {
+      "id": 6,
+      "name": "Icebox",
+      "description": "Mapa con múltiples niveles y áreas de hielo.",
+      "map":"/images/maps/iceboxMap.jpeg",
+      "image": "/images/maps/icebox.jpg",
+      "details": {
+        "zonas_elevadas": "Varias áreas con diferentes niveles de altura, lo que permite verticalidad en el juego.",
+        "cubiertas_y_lineas_de_vision": "Muchas cubiertas y líneas de visión complicadas, favoreciendo el uso de habilidades."
+      }
+    },
+    {
+      "id": 7,
+      "name": "Fracture",
+      "description": "Mapa con dos áreas de ataque y múltiples caminos.",
+      "map":"/images/maps/fractureMap.jpeg",
+      "image": "/images/maps/fracture.webp",
+      "details": {
+        "ataques_divididos": "Permite ataques desde dos áreas diferentes, complicando la defensa.",
+        "rutas_variadas": "Muchas rutas y caminos, favoreciendo estrategias complejas y sorpresas."
+      }
+    },
+    {
+      "id": 8,
+      "name": "Pearl",
+      "description": "Mapa con rutas subterráneas y muchos ángulos.",
+      "map":"/images/maps/pearlMap.jpeg",
+      "image": "/images/maps/pearl.jpg",
+      "details": {
+        "rutas_subterraneas": "Rutas subterráneas que permiten flanqueos y ataques sorpresa.",
+        "angulos_complicados": "Muchos ángulos y esquinas, lo que requiere una vigilancia constante."
+      }
+    },
+    {
+      "id": 9,
+      "name": "Lotus",
+      "description": "Mapa con un diseño abierto y varias rutas.",
+      "map":"/images/maps/lotusMap.jpeg",
+      "image": "/images/maps/lotus.jpeg",
+      "details": {
+        "diseno_abierto": "Áreas abiertas que permiten enfrentamientos de largo alcance y posicionamiento flexible.",
+        "multiples_rutas": "Varias rutas de ataque y defensa, lo que permite adaptarse a diferentes estrategias."
+      }
+    },
+    {
+      "id": 10,
+      "name": "Sunset",
+      "description": "Mapa con muchos espacios abiertos y rutas largas.",
+      "map":"/images/maps/sunsetMap.jpeg",
+      "image": "/images/maps/sunset.png",
+      "details": {
+        "espacios_abiertos": "Favorece enfrentamientos de largo alcance y el uso de francotiradores.",
+        "rutas_largas": "Permite flanqueos largos y requiere una buena coordinación de equipo."
+      }
+    },
+    {
+      "id": 11,
+      "name": "Abyss",
+      "description": "Mapa submarino con múltiples niveles y rutas estrechas.",
+      "map": "/images/maps/abyssMap.jpeg",
+      "image": "/images/maps/abyss.jpg",
+      "details": {
+        "niveles_multiples": "Ofrece un diseño vertical con varios niveles que permiten ataques desde arriba y abajo.",
+        "rutas_estrechas": "Facilita el uso de habilidades de control de área para bloquear caminos y emboscar enemigos."
+      }
+    }
+  ]
+}

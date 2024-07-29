@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fmapa\u002Fdetalles\u002F[mapa]","\u002Fpersonajes\u002Fdetalles\u002F[personaje]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
