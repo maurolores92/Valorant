@@ -50,8 +50,8 @@ const ContactoColaboraciones = () => {
     e.preventDefault();
 
     emailjs.send(
-      'service_7w1i6c9',
-      'template_by446zh',
+      'service_pjkjt84',
+      'template_ji4a656',
       {
         from_name: formData.nombre,
         from_email: formData.email,
@@ -62,7 +62,7 @@ const ContactoColaboraciones = () => {
         additional_message: formData.mensajeAdicional,
         site_name: 'Nombre de tu Sitio Web'
       },
-      'sy06gLXSaERt67846' // Usa tu Public Key aquí
+      'KFILfWDYSkUZMtPXZ'
     ).then((response) => {
       console.log('SUCCESS!', response.status, response.text);
       setSuccessMessage('¡Tu mensaje ha sido enviado exitosamente!');
